@@ -1,0 +1,36 @@
+div {
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    border-right: solid red 2px;
+
+    margin: 20px;
+
+    display: inline-block;
+    padding: 2px;
+}
+
+
+section {
+    display: inline;
+}
+
+h1 {
+    display: inline-block;
+}
+
+#myFunkyDiv {
+
+    height:100px;
+    width:100px;
+
+
+    background-color: green;
+
+    position: absolute;
+    top: 200px;
+    left: 10px;
+
+    border-radius: 50px;
+
+}
